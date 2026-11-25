@@ -17,4 +17,4 @@ The formula appears here with the first Rafiq release.
 
 ## Maintainers
 
-Each Rafiq release attaches a rendered `rafiq-bridge.rb` with the real version and checksums. Copy it to `Formula/rafiq-bridge.rb` and commit it. The template and the steps live in the Rafiq repository under `packaging/homebrew/`.
+`Formula/rafiq-bridge.rb` is written by the Rafiq release workflow on each final release, with the real version and checksums. Do not edit it by hand. Prereleases are not published here. The template and the setup steps live in the Rafiq repository under `packaging/`.
